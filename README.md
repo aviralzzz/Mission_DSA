@@ -33,8 +33,17 @@ my name is  aviral singh
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2427-number-of-common-factors](https://github.com/aviralzzz/Mission_DSA/tree/master/2427-number-of-common-factors) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aviralzzz/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/aviralzzz/Mission_DSA/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/aviralzzz/Mission_DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
