@@ -8,6 +8,7 @@ my name is  aviral singh
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/aviralzzz/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/aviralzzz/Mission_DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/aviralzzz/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -18,6 +19,7 @@ my name is  aviral singh
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/aviralzzz/Mission_DSA/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -32,6 +34,7 @@ my name is  aviral singh
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aviralzzz/Mission_DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/aviralzzz/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Math
