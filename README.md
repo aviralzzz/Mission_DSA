@@ -16,6 +16,7 @@ my name is  aviral singh
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/aviralzzz/Mission_DSA/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/aviralzzz/Mission_DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/aviralzzz/Mission_DSA/tree/master/0735-asteroid-collision) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -74,6 +75,7 @@ my name is  aviral singh
 | ------- |
 | [0162-find-peak-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/aviralzzz/Mission_DSA/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
