@@ -53,6 +53,7 @@ my name is  aviral singh
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aviralzzz/Mission_DSA/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/aviralzzz/Mission_DSA/tree/master/2427-number-of-common-factors) |
@@ -92,4 +93,8 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aviralzzz/Mission_DSA/tree/master/0735-asteroid-collision) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aviralzzz/Mission_DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
