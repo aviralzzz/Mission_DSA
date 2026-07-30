@@ -13,6 +13,7 @@ my name is  aviral singh
 | [0136-single-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/aviralzzz/Mission_DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/aviralzzz/Mission_DSA/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -33,11 +34,13 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aviralzzz/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/aviralzzz/Mission_DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -45,6 +48,7 @@ my name is  aviral singh
 | [0015-3sum](https://github.com/aviralzzz/Mission_DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aviralzzz/Mission_DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/aviralzzz/Mission_DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -54,6 +58,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aviralzzz/Mission_DSA/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/aviralzzz/Mission_DSA/tree/master/2427-number-of-common-factors) |
@@ -75,6 +80,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aviralzzz/Mission_DSA/tree/master/0704-binary-search) |
 ## Greedy
