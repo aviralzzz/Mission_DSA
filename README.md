@@ -62,6 +62,7 @@ my name is  aviral singh
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/aviralzzz/Mission_DSA/tree/master/2427-number-of-common-factors) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aviralzzz/Mission_DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Matrix
@@ -86,6 +87,7 @@ my name is  aviral singh
 ## Greedy
 |  |
 | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aviralzzz/Mission_DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
 |  |
@@ -103,4 +105,8 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aviralzzz/Mission_DSA/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
