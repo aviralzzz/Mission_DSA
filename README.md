@@ -14,6 +14,7 @@ my name is  aviral singh
 | [0136-single-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/aviralzzz/Mission_DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/aviralzzz/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -52,6 +53,7 @@ my name is  aviral singh
 | ------- |
 | [0015-3sum](https://github.com/aviralzzz/Mission_DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/aviralzzz/Mission_DSA/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/aviralzzz/Mission_DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/aviralzzz/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -120,4 +122,12 @@ my name is  aviral singh
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/aviralzzz/Mission_DSA/tree/master/3866-first-unique-even-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aviralzzz/Mission_DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aviralzzz/Mission_DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
