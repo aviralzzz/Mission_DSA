@@ -41,6 +41,7 @@ my name is  aviral singh
 | ------- |
 | [0136-single-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/aviralzzz/Mission_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ my name is  aviral singh
 | ------- |
 | [0007-reverse-integer](https://github.com/aviralzzz/Mission_DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/aviralzzz/Mission_DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/aviralzzz/Mission_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -118,6 +120,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aviralzzz/Mission_DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/aviralzzz/Mission_DSA/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
