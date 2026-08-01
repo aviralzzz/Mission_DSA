@@ -67,6 +67,7 @@ my name is  aviral singh
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/aviralzzz/Mission_DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/aviralzzz/Mission_DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
