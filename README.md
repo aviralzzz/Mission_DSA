@@ -141,6 +141,7 @@ my name is  aviral singh
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/aviralzzz/Mission_DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
