@@ -31,6 +31,7 @@ my name is  aviral singh
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aviralzzz/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aviralzzz/Mission_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3731-find-missing-elements](https://github.com/aviralzzz/Mission_DSA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aviralzzz/Mission_DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3866-first-unique-even-element](https://github.com/aviralzzz/Mission_DSA/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -60,6 +61,7 @@ my name is  aviral singh
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3731-find-missing-elements](https://github.com/aviralzzz/Mission_DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/aviralzzz/Mission_DSA/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ my name is  aviral singh
 | [0922-sort-array-by-parity-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/aviralzzz/Mission_DSA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/aviralzzz/Mission_DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Math
 |  |
