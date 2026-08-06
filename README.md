@@ -161,4 +161,8 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/aviralzzz/Mission_DSA/tree/master/0724-find-pivot-index) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
