@@ -41,6 +41,7 @@ my name is  aviral singh
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/aviralzzz/Mission_DSA/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aviralzzz/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/aviralzzz/Mission_DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -57,6 +58,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aviralzzz/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aviralzzz/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/aviralzzz/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -164,5 +166,6 @@ my name is  aviral singh
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/aviralzzz/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
