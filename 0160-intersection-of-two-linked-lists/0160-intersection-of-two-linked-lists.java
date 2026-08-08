@@ -52,7 +52,7 @@ public class Solution {
             tempA=tempA.next;
             tempB=tempB.next;
         }
-        return tempA;
+        return tempB;
 
     }
 }
