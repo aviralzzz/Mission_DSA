@@ -173,6 +173,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aviralzzz/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aviralzzz/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
