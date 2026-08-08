@@ -43,6 +43,7 @@ my name is  aviral singh
 | [0027-remove-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/aviralzzz/Mission_DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/aviralzzz/Mission_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aviralzzz/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/aviralzzz/Mission_DSA/tree/master/0905-sort-array-by-parity) |
@@ -62,6 +63,7 @@ my name is  aviral singh
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aviralzzz/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/aviralzzz/Mission_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aviralzzz/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/aviralzzz/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
@@ -172,6 +174,7 @@ my name is  aviral singh
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/aviralzzz/Mission_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aviralzzz/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -179,4 +182,5 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aviralzzz/Mission_DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
