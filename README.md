@@ -41,6 +41,7 @@ my name is  aviral singh
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aviralzzz/Mission_DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/aviralzzz/Mission_DSA/tree/master/0141-linked-list-cycle) |
@@ -177,6 +178,7 @@ my name is  aviral singh
 | ------- |
 | [0002-add-two-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aviralzzz/Mission_DSA/tree/master/0141-linked-list-cycle) |
