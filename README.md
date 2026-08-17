@@ -150,6 +150,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/aviralzzz/Mission_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/aviralzzz/Mission_DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aviralzzz/Mission_DSA/tree/master/0231-power-of-two) |
 ## String
@@ -178,6 +179,7 @@ my name is  aviral singh
 | ------- |
 | [0002-add-two-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/aviralzzz/Mission_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
