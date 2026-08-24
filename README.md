@@ -5,6 +5,7 @@ my name is  aviral singh
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aviralzzz/Mission_DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aviralzzz/Mission_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0027-remove-element) |
@@ -64,6 +65,7 @@ my name is  aviral singh
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aviralzzz/Mission_DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aviralzzz/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/aviralzzz/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0142-linked-list-cycle-ii) |
