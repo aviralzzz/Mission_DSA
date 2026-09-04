@@ -51,6 +51,7 @@ my name is  aviral singh
 | [0141-linked-list-cycle](https://github.com/aviralzzz/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aviralzzz/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/aviralzzz/Mission_DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -144,6 +145,7 @@ my name is  aviral singh
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/aviralzzz/Mission_DSA/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
@@ -161,6 +163,7 @@ my name is  aviral singh
 | [0024-swap-nodes-in-pairs](https://github.com/aviralzzz/Mission_DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/aviralzzz/Mission_DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aviralzzz/Mission_DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -196,6 +199,7 @@ my name is  aviral singh
 | [0141-linked-list-cycle](https://github.com/aviralzzz/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aviralzzz/Mission_DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
