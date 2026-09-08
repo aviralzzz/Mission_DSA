@@ -10,22 +10,55 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ArrayList<Integer> arr=new ArrayList<>();
-        ListNode temp=head;
-        while(temp!=null)
-        {
-            arr.add(temp.val);
-            temp=temp.next;
+        // ArrayList<Integer> arr=new ArrayList<>();
+        // ListNode temp=head;
+        // while(temp!=null)
+        // {
+        //     arr.add(temp.val);
+        //     temp=temp.next;
+        // }
+        // int i=0,j=arr.size()-1;
+        // while(i<j)
+        // {
+        //     if(!(arr.get(i).equals(arr.get(j))))
+        //     return false;
+        //     i++;
+        //     j--;
+        // }
+        // return true;
+        if (head == null || head.next == null) {
+            return true;
         }
-        int i=0,j=arr.size()-1;
-        while(i<j)
+        ListNode slow=head;
+        ListNode  fast=head;
+        while(fast!=null  && fast.next!=null)
         {
-            if(!(arr.get(i).equals(arr.get(j))))
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        ListNode secondhalf=reverse(slow);
+        ListNode firsthalf=head;
+        while(secondhalf!=null)
+        {
+            if(firsthalf.val!=secondhalf.val)
             return false;
-            i++;
-            j--;
+            firsthalf=firsthalf.next;
+            secondhalf=secondhalf.next;
         }
         return true;
-        
+    }
+    ListNode reverse(ListNode head)
+    {
+        ListNode prev=null;
+        ListNode fwd=null;
+        ListNode curr=head;
+        while(curr!=null)
+        {
+            fwd=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=fwd;
+        }
+        return prev;
     }
 }
