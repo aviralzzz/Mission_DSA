@@ -30,41 +30,41 @@ class Solution {
             prev=curr;
             curr=fwd;
         }
-        // ListNode dummy=new ListNode(-1);
-        // ListNode tail=dummy; 
-        // ListNode first=head;
-        // ListNode second=prev;
-        // while(first!=null || second!=null)
-        // {
-        //     if(first!=null)
-        //     {
-        //         first.next=second;
-        //         tail=first;
-        //         first=first.next;
+        ListNode dummy=new ListNode(-1);
+        ListNode tail=dummy; 
+        ListNode first=head;
+        ListNode second=prev;
+        while(first!=null || second!=null)
+        {
+            if(first!=null)
+            {
+                tail.next=first;
+                tail=first;
+                first=first.next;
 
-        //     }
-        //     if(second!=null)
-        //     {
-        //         tail.next=second;
-        //         tail=second;
-        //         second=second.next;
-        //     }
+            }
+            if(second!=null)
+            {
+                tail.next=second;
+                tail=second;
+                second=second.next;
+            }
             
-        // }
-        ListNode first = head;
-        ListNode second = prev;
-
-        while (second != null) {
-
-            ListNode firstNext = first.next;
-            ListNode secondNext = second.next;
-
-            first.next = second;
-            second.next = firstNext;
-
-            first = firstNext;
-            second = secondNext;
         }
+        // ListNode first = head;
+        // ListNode second = prev;
+
+        // while (second != null) {
+
+        //     ListNode firstNext = first.next;
+        //     ListNode secondNext = second.next;
+
+        //     first.next = second;
+        //     second.next = firstNext;
+
+        //     first = firstNext;
+        //     second = secondNext;
+        // }
         
     }
 }
