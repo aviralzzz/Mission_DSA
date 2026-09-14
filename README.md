@@ -235,4 +235,8 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aviralzzz/Mission_DSA/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aviralzzz/Mission_DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
