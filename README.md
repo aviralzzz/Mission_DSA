@@ -216,6 +216,7 @@ my name is  aviral singh
 | [0234-palindrome-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -240,4 +241,12 @@ my name is  aviral singh
 | ------- |
 | [0175-combine-two-tables](https://github.com/aviralzzz/Mission_DSA/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/aviralzzz/Mission_DSA/tree/master/0577-employee-bonus) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
