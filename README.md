@@ -23,6 +23,7 @@ my name is  aviral singh
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aviralzzz/Mission_DSA/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/aviralzzz/Mission_DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aviralzzz/Mission_DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aviralzzz/Mission_DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/aviralzzz/Mission_DSA/tree/master/0735-asteroid-collision) |
@@ -152,12 +153,14 @@ my name is  aviral singh
 | ------- |
 | [0143-reorder-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/aviralzzz/Mission_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aviralzzz/Mission_DSA/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aviralzzz/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/aviralzzz/Mission_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aviralzzz/Mission_DSA/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aviralzzz/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aviralzzz/Mission_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
