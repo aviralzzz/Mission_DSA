@@ -22,6 +22,7 @@ my name is  aviral singh
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aviralzzz/Mission_DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/aviralzzz/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/aviralzzz/Mission_DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aviralzzz/Mission_DSA/tree/master/0704-binary-search) |
@@ -81,6 +82,7 @@ my name is  aviral singh
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/aviralzzz/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [3731-find-missing-elements](https://github.com/aviralzzz/Mission_DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/aviralzzz/Mission_DSA/tree/master/3866-first-unique-even-element) |
 ## Sorting
@@ -153,6 +155,7 @@ my name is  aviral singh
 | ------- |
 | [0143-reorder-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/aviralzzz/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aviralzzz/Mission_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aviralzzz/Mission_DSA/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aviralzzz/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -261,5 +264,6 @@ my name is  aviral singh
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/aviralzzz/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
