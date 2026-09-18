@@ -156,6 +156,7 @@ my name is  aviral singh
 | [0682-baseball-game](https://github.com/aviralzzz/Mission_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aviralzzz/Mission_DSA/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aviralzzz/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -177,6 +178,7 @@ my name is  aviral singh
 | [0206-reverse-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aviralzzz/Mission_DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -225,6 +227,7 @@ my name is  aviral singh
 | [0876-middle-of-the-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aviralzzz/Mission_DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -255,4 +258,8 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
