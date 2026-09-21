@@ -259,6 +259,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -269,4 +270,16 @@ my name is  aviral singh
 | [0496-next-greater-element-i](https://github.com/aviralzzz/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
