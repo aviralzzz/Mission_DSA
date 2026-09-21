@@ -155,6 +155,7 @@ my name is  aviral singh
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aviralzzz/Mission_DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aviralzzz/Mission_DSA/tree/master/0496-next-greater-element-i) |
@@ -189,6 +190,7 @@ my name is  aviral singh
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aviralzzz/Mission_DSA/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aviralzzz/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aviralzzz/Mission_DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -285,4 +287,8 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aviralzzz/Mission_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
