@@ -33,6 +33,7 @@ my name is  aviral singh
 | [0922-sort-array-by-parity-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aviralzzz/Mission_DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/aviralzzz/Mission_DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aviralzzz/Mission_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aviralzzz/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -163,6 +164,7 @@ my name is  aviral singh
 | [0682-baseball-game](https://github.com/aviralzzz/Mission_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aviralzzz/Mission_DSA/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aviralzzz/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aviralzzz/Mission_DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aviralzzz/Mission_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/3174-clear-digits) |
@@ -276,6 +278,7 @@ my name is  aviral singh
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aviralzzz/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0503-next-greater-element-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aviralzzz/Mission_DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aviralzzz/Mission_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
