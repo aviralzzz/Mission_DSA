@@ -1,35 +1,86 @@
+// class MinStack {
+//     Stack<Integer> st;
+//     Stack<Integer> minSt;
+
+//     public MinStack() {
+//         st=new Stack<>();
+//         minSt=new Stack<>();
+        
+//     }
+    
+//     public void push(int val) {
+//         st.push(val);
+//         if(minSt.size()==0 || minSt.peek()>val )
+//         minSt.push(val);
+//         else
+//         minSt.push(minSt.peek());
+        
+//     }
+    
+//     public void pop() {
+//         st.pop();
+//         minSt.pop();
+        
+//     }
+    
+//     public int top() {
+//         return  st.peek();
+        
+//     }
+    
+//     public int getMin() {
+//         return minSt.peek();
+        
+//     }
+// }
 class MinStack {
-    Stack<Integer> st;
-    Stack<Integer> minSt;
+    Stack<Long> st;
+    long min;
+    
 
     public MinStack() {
         st=new Stack<>();
-        minSt=new Stack<>();
-        
+        min=Long.MAX_VALUE;
     }
     
     public void push(int val) {
-        st.push(val);
-        if(minSt.size()==0 || minSt.peek()>val )
-        minSt.push(val);
-        else
-        minSt.push(minSt.peek());
+        if(st.size()==0)
+        min=(long)val;
+        if(val>=min)
+        {
+            st.push((long)val);
+        }
+        else //fake value insert kro
+        {
+           
+           st.push((long)val+((long)val-min)); 
+            min=val;
+        }
         
     }
     
     public void pop() {
+        if(st.peek()<min)
+        {
+            min=min+(min-st.peek());
+        }
         st.pop();
-        minSt.pop();
         
     }
     
     public int top() {
-        return  st.peek();
+        long q=st.peek();
+        if(q<min)
+        {
+            return (int)min;
+        }
+        else
+        return (int)q;
         
     }
     
     public int getMin() {
-        return minSt.peek();
+        return (int)min;
         
     }
 }
