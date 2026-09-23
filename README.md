@@ -163,6 +163,7 @@ my name is  aviral singh
 | [0084-largest-rectangle-in-histogram](https://github.com/aviralzzz/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aviralzzz/Mission_DSA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/aviralzzz/Mission_DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aviralzzz/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0503-next-greater-element-ii) |
@@ -313,4 +314,8 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/aviralzzz/Mission_DSA/tree/master/0085-maximal-rectangle) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aviralzzz/Mission_DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
