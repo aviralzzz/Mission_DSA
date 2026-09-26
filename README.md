@@ -14,6 +14,7 @@ my name is  aviral singh
 | [0075-sort-colors](https://github.com/aviralzzz/Mission_DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aviralzzz/Mission_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aviralzzz/Mission_DSA/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aviralzzz/Mission_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -318,6 +319,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/aviralzzz/Mission_DSA/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aviralzzz/Mission_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Design
 |  |
 | ------- |
