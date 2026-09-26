@@ -36,6 +36,7 @@ my name is  aviral singh
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aviralzzz/Mission_DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aviralzzz/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/aviralzzz/Mission_DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aviralzzz/Mission_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aviralzzz/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -116,6 +117,7 @@ my name is  aviral singh
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aviralzzz/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2427-number-of-common-factors](https://github.com/aviralzzz/Mission_DSA/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -180,6 +182,7 @@ my name is  aviral singh
 | [0059-spiral-matrix-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/aviralzzz/Mission_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aviralzzz/Mission_DSA/tree/master/0735-asteroid-collision) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aviralzzz/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aviralzzz/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aviralzzz/Mission_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -196,6 +199,7 @@ my name is  aviral singh
 | [0206-reverse-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aviralzzz/Mission_DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aviralzzz/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
@@ -318,4 +322,8 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aviralzzz/Mission_DSA/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aviralzzz/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
