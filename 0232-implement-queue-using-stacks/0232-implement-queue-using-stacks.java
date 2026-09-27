@@ -1,10 +1,10 @@
 class MyQueue {
-    Stack<Integer> st=new Stack<>();
-    Stack<Integer> helper=new Stack<>();
+    Stack<Integer> st;
+    Stack<Integer> helper;
     public MyQueue() {
-    
+    st=new Stack<>();
+    helper=new Stack<>();
     }
-    
     public void push(int x) {
         st.push(x); 
     }
@@ -21,8 +21,7 @@ class MyQueue {
         }
         return a;
         
-    }
-    
+    } 
     public int peek() {
         while(st.size()>1)
         {
