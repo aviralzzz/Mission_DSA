@@ -41,6 +41,7 @@ my name is  aviral singh
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aviralzzz/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/aviralzzz/Mission_DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aviralzzz/Mission_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2073-time-needed-to-buy-tickets](https://github.com/aviralzzz/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aviralzzz/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aviralzzz/Mission_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -188,6 +189,7 @@ my name is  aviral singh
 | [0682-baseball-game](https://github.com/aviralzzz/Mission_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aviralzzz/Mission_DSA/tree/master/0735-asteroid-collision) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aviralzzz/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/aviralzzz/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aviralzzz/Mission_DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aviralzzz/Mission_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -336,4 +338,5 @@ my name is  aviral singh
 | [0225-implement-stack-using-queues](https://github.com/aviralzzz/Mission_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aviralzzz/Mission_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aviralzzz/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/aviralzzz/Mission_DSA/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
