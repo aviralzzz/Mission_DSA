@@ -21,10 +21,7 @@ class Solution {
                     return false;
         
             }
-
-
         }
-        return (st.size()==0);
-        
+        return st.size()==0;
     }
 }
