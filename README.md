@@ -216,6 +216,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aviralzzz/Mission_DSA/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/aviralzzz/Mission_DSA/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/aviralzzz/Mission_DSA/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/aviralzzz/Mission_DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aviralzzz/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
