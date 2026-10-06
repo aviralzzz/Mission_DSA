@@ -33,6 +33,7 @@ my name is  aviral singh
 | [0704-binary-search](https://github.com/aviralzzz/Mission_DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aviralzzz/Mission_DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/aviralzzz/Mission_DSA/tree/master/0735-asteroid-collision) |
+| [0804-unique-morse-code-words](https://github.com/aviralzzz/Mission_DSA/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/aviralzzz/Mission_DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -94,6 +95,7 @@ my name is  aviral singh
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aviralzzz/Mission_DSA/tree/master/0496-next-greater-element-i) |
+| [0804-unique-morse-code-words](https://github.com/aviralzzz/Mission_DSA/tree/master/0804-unique-morse-code-words) |
 | [3731-find-missing-elements](https://github.com/aviralzzz/Mission_DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/aviralzzz/Mission_DSA/tree/master/3866-first-unique-even-element) |
 ## Sorting
@@ -219,6 +221,7 @@ my name is  aviral singh
 | [0038-count-and-say](https://github.com/aviralzzz/Mission_DSA/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/aviralzzz/Mission_DSA/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/aviralzzz/Mission_DSA/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/aviralzzz/Mission_DSA/tree/master/0804-unique-morse-code-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aviralzzz/Mission_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/aviralzzz/Mission_DSA/tree/master/1108-defanging-an-ip-address) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aviralzzz/Mission_DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
