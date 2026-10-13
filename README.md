@@ -97,6 +97,7 @@ my name is  aviral singh
 | [0217-contains-duplicate](https://github.com/aviralzzz/Mission_DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aviralzzz/Mission_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/aviralzzz/Mission_DSA/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aviralzzz/Mission_DSA/tree/master/0496-next-greater-element-i) |
 | [0804-unique-morse-code-words](https://github.com/aviralzzz/Mission_DSA/tree/master/0804-unique-morse-code-words) |
@@ -228,6 +229,7 @@ my name is  aviral singh
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aviralzzz/Mission_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/aviralzzz/Mission_DSA/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/aviralzzz/Mission_DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/aviralzzz/Mission_DSA/tree/master/0383-ransom-note) |
 | [0657-robot-return-to-origin](https://github.com/aviralzzz/Mission_DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/aviralzzz/Mission_DSA/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/aviralzzz/Mission_DSA/tree/master/0804-unique-morse-code-words) |
@@ -241,6 +243,7 @@ my name is  aviral singh
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/aviralzzz/Mission_DSA/tree/master/0383-ransom-note) |
 | [3866-first-unique-even-element](https://github.com/aviralzzz/Mission_DSA/tree/master/3866-first-unique-even-element) |
 ## Bucket Sort
 |  |
