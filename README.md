@@ -89,6 +89,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aviralzzz/Mission_DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/aviralzzz/Mission_DSA/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/aviralzzz/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/aviralzzz/Mission_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -123,6 +124,7 @@ my name is  aviral singh
 | ------- |
 | [0002-add-two-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aviralzzz/Mission_DSA/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/aviralzzz/Mission_DSA/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/aviralzzz/Mission_DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aviralzzz/Mission_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
@@ -221,6 +223,7 @@ my name is  aviral singh
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aviralzzz/Mission_DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/aviralzzz/Mission_DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aviralzzz/Mission_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/aviralzzz/Mission_DSA/tree/master/0038-count-and-say) |
