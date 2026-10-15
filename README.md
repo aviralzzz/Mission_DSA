@@ -131,6 +131,7 @@ my name is  aviral singh
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/aviralzzz/Mission_DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aviralzzz/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2427-number-of-common-factors](https://github.com/aviralzzz/Mission_DSA/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -152,6 +153,7 @@ my name is  aviral singh
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/aviralzzz/Mission_DSA/tree/master/1492-the-kth-factor-of-n) |
 | [2427-number-of-common-factors](https://github.com/aviralzzz/Mission_DSA/tree/master/2427-number-of-common-factors) |
 ## Binary Search
 |  |
@@ -390,4 +392,8 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aviralzzz/Mission_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/aviralzzz/Mission_DSA/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
