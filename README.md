@@ -36,6 +36,7 @@ my name is  aviral singh
 | [0804-unique-morse-code-words](https://github.com/aviralzzz/Mission_DSA/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/aviralzzz/Mission_DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1200-minimum-absolute-difference](https://github.com/aviralzzz/Mission_DSA/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aviralzzz/Mission_DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -116,6 +117,7 @@ my name is  aviral singh
 | [0628-maximum-product-of-three-numbers](https://github.com/aviralzzz/Mission_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/aviralzzz/Mission_DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1200-minimum-absolute-difference](https://github.com/aviralzzz/Mission_DSA/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/aviralzzz/Mission_DSA/tree/master/3731-find-missing-elements) |
