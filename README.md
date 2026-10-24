@@ -6,6 +6,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aviralzzz/Mission_DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/aviralzzz/Mission_DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aviralzzz/Mission_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0027-remove-element) |
@@ -230,6 +231,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aviralzzz/Mission_DSA/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/aviralzzz/Mission_DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aviralzzz/Mission_DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aviralzzz/Mission_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/aviralzzz/Mission_DSA/tree/master/0038-count-and-say) |
@@ -400,4 +402,8 @@ my name is  aviral singh
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/aviralzzz/Mission_DSA/tree/master/1492-the-kth-factor-of-n) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aviralzzz/Mission_DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
