@@ -135,6 +135,7 @@ my name is  aviral singh
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/aviralzzz/Mission_DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aviralzzz/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2409-count-days-spent-together](https://github.com/aviralzzz/Mission_DSA/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/aviralzzz/Mission_DSA/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -242,6 +243,7 @@ my name is  aviral singh
 | [1108-defanging-an-ip-address](https://github.com/aviralzzz/Mission_DSA/tree/master/1108-defanging-an-ip-address) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aviralzzz/Mission_DSA/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aviralzzz/Mission_DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2409-count-days-spent-together](https://github.com/aviralzzz/Mission_DSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aviralzzz/Mission_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3174-clear-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/3174-clear-digits) |
 ## Counting
