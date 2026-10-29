@@ -330,6 +330,7 @@ my name is  aviral singh
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aviralzzz/Mission_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -352,6 +353,7 @@ my name is  aviral singh
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -359,6 +361,7 @@ my name is  aviral singh
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
@@ -429,4 +432,8 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0098-validate-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
