@@ -43,6 +43,7 @@ my name is  aviral singh
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aviralzzz/Mission_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aviralzzz/Mission_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aviralzzz/Mission_DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/aviralzzz/Mission_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aviralzzz/Mission_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aviralzzz/Mission_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/aviralzzz/Mission_DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -268,6 +269,7 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/aviralzzz/Mission_DSA/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/aviralzzz/Mission_DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
