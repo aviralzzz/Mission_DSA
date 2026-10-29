@@ -332,6 +332,7 @@ my name is  aviral singh
 | [0094-binary-tree-inorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -357,6 +358,7 @@ my name is  aviral singh
 | [0094-binary-tree-inorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -367,6 +369,7 @@ my name is  aviral singh
 | [0094-binary-tree-inorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aviralzzz/Mission_DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -443,5 +446,6 @@ my name is  aviral singh
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aviralzzz/Mission_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
