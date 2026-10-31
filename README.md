@@ -10,6 +10,7 @@ my name is  aviral singh
 | [0015-3sum](https://github.com/aviralzzz/Mission_DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/aviralzzz/Mission_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aviralzzz/Mission_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aviralzzz/Mission_DSA/tree/master/0075-sort-colors) |
@@ -166,6 +167,7 @@ my name is  aviral singh
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aviralzzz/Mission_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aviralzzz/Mission_DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/aviralzzz/Mission_DSA/tree/master/0268-missing-number) |
